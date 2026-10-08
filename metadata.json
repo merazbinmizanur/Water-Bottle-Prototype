@@ -1,0 +1,6 @@
+{
+  "name": "PaniShilpa - Field Research & Feasibility",
+  "description": "Mobile-first field research and feasibility study application for bottled water ventures visiting restaurants and factories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
